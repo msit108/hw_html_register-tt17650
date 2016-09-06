@@ -1,1 +1,2 @@
-# hw_html_register
+# HTML 作業
+請設計一個「新增/加入會員」的表單
